@@ -1,6 +1,6 @@
 # React App File Structure.
 
-## Intro
+## Intro 
 The problem of organizing files within an application does not arise from nothing, as a rule, it is thought about when more than one person works on the project and the size of the code base grows to such a level that it is difficult to keep in memory which file is responsible for which part of the application. That is, we always try to make the structure so that it can be used comfortably and quickly.
 
 React doesn't dictate its application architecture, leaving complete discretion in how the application files are organized: https://reactjs.org/docs/faq-structure.html
