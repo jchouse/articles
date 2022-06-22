@@ -1,11 +1,11 @@
 # React App File Structure.
 
 ## Intro
-The problem of organizing files within an application is started when more than one person works on the project and the size of the code base growss to such a level, that it is difficult to keep in memory. That's why we are always trying to make file structure more obvious, so that it can be used comfortably and quickly.
+The problem of organizing files within an application is starting when more than one person works on the project and the size of the code base growss to such level, that it's difficult to keep everything in mind. That's why we are always trying to make file structure more obvious, so it can be used comfortably and quickly.
 
-React doesn't dictate its application architecture, leaving complete freedom in how the application files are organized: https://reactjs.org/docs/faq-structure.html
+React doesn't dictate it's application architecture, leaving complete freedom in how the application files are organized: https://reactjs.org/docs/faq-structure.html
 
-To give a little context, I will tell you about the solutions and technologies which are used within our project:
+I've spent quite a time to find approach for my project, but first, we need some context:
 1. Main language - TypeScript
 1. UI library - React
 1. State manager - MobX
