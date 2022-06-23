@@ -176,10 +176,14 @@ There is no reason to put any pages or components into `modules`. Any code that 
 ```
 
 ## Conclusions.
-In my opinion, proposed structure:
+In my opinion, the proposed structure:
 1. helps the developer to keep in mind MVV/MVC paradigm
 1. Plan component design in advance
-1. Spend less time searching for the components, inside file tree and and quick access panel as well
+1. Spend less time searching for the components, inside file tree and quick access panel as well
 
-Is it 100% optimal and suitable model for everyone? Definetily not, but in our project, it obviously is.
+Is it 100% optimal and suitable model for everyone? Definitely not, but in our project, it obviously is.
 So if you have thoughts or comments on this, please write to me.
+
+Thanks for:
+- my codebuddy [@dmytro1ef2](https://github.com/dmytro1ef2)
+- translation editing [@vadimfrolov](https://github.com/vadimfrolov)
