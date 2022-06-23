@@ -182,7 +182,7 @@ In my opinion, the proposed structure:
 1. Spend less time searching for the components, inside file tree and quick access panel as well
 
 Is it 100% optimal and suitable model for everyone? Definitely not, but in our project, it obviously is.
-So if you have thoughts or comments on this, please write to me.
+So if you have thoughts or comments on this, please write to me [@jchouse](https://github.com/jchouse)
 
 Thanks for:
 - my codebuddy [@dmytro1ef2](https://github.com/dmytro1ef2)
